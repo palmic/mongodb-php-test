@@ -1,0 +1,7 @@
+{
+    "name": "palmic/mongodb-php-test",
+    "require": {
+        "phpunit/phpunit": "5.6.*",
+        "alcaeus/mongo-php-adapter": "1.0.8"
+    }
+}
